@@ -3,6 +3,6 @@
 ### Hi there, I'm [feixiang1209](https://suki.fyxemmmm.cn) 🎉
 - 🇨🇳 Chinese
 - 🌏 backend developer
-- ⚡ Go, PHP, Rust ...
+- ⚡ Go, Rust, PHP ...
 <br>
 🎉 Welcome to my GitHub profile!
