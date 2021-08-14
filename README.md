@@ -9,4 +9,4 @@
 
 
 More on 👉
-[my blog](https://www.fyxemmmm.cn)
+[my blog](https://fyxemmmm.github.io)
