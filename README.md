@@ -4,7 +4,7 @@
 🎉 Welcome to my GitHub profile!
 - 🇨🇳 Chinese
 - 🌏 backend developer
-- ⚡ Go, Rust, PHP ...
+- ⚡ Go, Rust ...
 
 
 
