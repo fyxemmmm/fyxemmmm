@@ -6,7 +6,3 @@
 - 🌏 backend developer
 - ⚡ Go, Rust, Kubernetes ...
 
-
-
-More on 👉
-[my blog](https://fyxemmmm.github.io)
