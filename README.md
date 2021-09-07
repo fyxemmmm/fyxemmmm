@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fyxemmmm&show_icons=true&hide_border=true&theme=" alt="Feixiang's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fyxemmmm&show_icons=true&hide_border=true&theme=outrun" alt="Feixiang's github stats" />
 
 ### 👋 Hi there
 🎉 Welcome to my GitHub profile!
