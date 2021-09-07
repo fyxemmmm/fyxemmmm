@@ -19,7 +19,7 @@
 #### Project
 
 * [chitanda](https://github.com/fyxemmmm/chitanda): 基于gin的web mvc框架，命名来源于最喜欢的  <千反田>
-* [blog代码](https://github.com/fyxemmmm/fyxemmmm.github.io): 博客地址源码，基于hexo实现的markdown渲染式框架
+* [blog resource code](https://github.com/fyxemmmm/fyxemmmm.github.io): 博客地址源码，基于hexo实现的markdown渲染式框架
 * [accumulation (资料仓库)](https://github.com/fyxemmmm/accumulation): 云原生相关的资料仓库，例如k8s的各种基础yaml文件、dockerfile、证书的使用等，方便查阅
 * [kubernetes-etcd-operator](https://github.com/fyxemmmm/kubernetes-etcd-operator): 基于kubebuilder实现的k8s的etcd operator (还不错)
 * [k8s-controller-demo](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现demo
