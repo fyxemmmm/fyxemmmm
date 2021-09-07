@@ -32,8 +32,8 @@
 * [物联网IOT项目](https://github.com/fyxemmmm/ops-pointer): 一个基于laravel实现的物联网OA系统，逻辑还是蛮复杂的，由于是php编写的，所以可供phper参考学习
 * [shell-project](https://github.com/fyxemmmm/shells): shell项目，包含centos启动脚本、短信监控脚本等
 * [python-project](https://github.com/fyxemmmm/py-project/tree/master): 爬虫、自动化脚本、以及selenium等项目
-* [sql-project](https://github.com/fyxemmmm/sql-project): 精选sql练习题，含数据表下载
-* [golang study (Go 学习)](https://github.com/fyxemmmm/golang-notes): Go 语言源码学习
+* [sql-project](https://github.com/fyxemmmm/sql-project): 精选sql练习题，训练逻辑思维，含数据表下载
+* [golang study (Go 学习)](https://github.com/fyxemmmm/golang-notes): Golang 语言源码学习，包含各种内置数据结构的解析
 * [Asuna (Rust学习)](https://github.com/fyxemmmm/asuna):  Named from Sword Art Online | rust学习、成长足迹
 
 
