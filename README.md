@@ -5,7 +5,6 @@
 - 🇨🇳 Chinese
 - 🌏 backend developer
 - ⚡ Go, Rust, Kubernetes
-- 📫 How to reach me: fyxemmmm@gmail.com
 ### 
 
 [![Github](https://img.shields.io/github/followers/fyxemmmm?label=Follow&style=plastic)](https://github.com/fyxemmmm)
