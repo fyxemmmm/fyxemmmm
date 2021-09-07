@@ -33,6 +33,6 @@
 * [shells](https://github.com/fyxemmmm/shells): shell项目，包含centos启动脚本、短信监控脚本等
 * [python-project](https://github.com/fyxemmmm/py-project/tree/master): 爬虫、自动化脚本、以及selenium等项目
 * [golang study (Go 学习)](https://github.com/fyxemmmm/golang-notes): Go 语言源码学习
-* [Asuna (rust学习)](https://github.com/fyxemmmm/asuna):  Named from Sword Art Online | rust学习、成长足迹
+* [Asuna (Rust学习)](https://github.com/fyxemmmm/asuna):  Named from Sword Art Online | rust学习、成长足迹
 
 
