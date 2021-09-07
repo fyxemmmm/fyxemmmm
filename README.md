@@ -14,7 +14,7 @@
 #### Contact Me 
 
 - blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io)
-- LeetCode 主页: [https://leetcode-cn.com/u/fyxemmmm](https://leetcode-cn.com/u/fyxemmmm), 学习算法
+- LeetCode 主页: [https://leetcode-cn.com/u/fyxemmmm](https://leetcode-cn.com/u/fyxemmmm)
 
 #### Project
 
