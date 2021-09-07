@@ -25,7 +25,7 @@
 * [k8s-controller-demo](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现demo
 * [go-websocket](https://github.com/fyxemmmm/go-websocket-demo)：一个 GO 语言实现的websocket项目 (用于快速上手websocket, 并且配有html前端页面)
 * [go-oauth](https://github.com/getbuguai/bg-jijian): 基于GO语言实现的oauth项目, 可以快速实现ouath客户端以及服务端
-* [rabbitmq (消息队列)](https://github.com/fyxemmmm/go-rabbmitmq-demo): GO语言实现的rabbitMQ的客户端以及服务端项目，内置有分布式事务的解决方案 (最终一致性)
+* [rabbitmq (消息队列)](https://github.com/fyxemmmm/go-rabbmitmq-demo): GO语言实现的rabbitMQ的客户端以及服务端项目，内置有分布式事务的解决方案 (最终一致)
 * [golang工具库 (kit)](https://github.com/fyxemmmm/kit): 一个由GO语言编写的工具库，陆续完善中
 * [golang-project (面试习题)](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题 (包含了LeetCode) 
 * [pv service](https://github.com/fyxemmmm/pv_service): 一个基于YII实现的项目，项目内容富含创业邦、电台等且含有大量复杂的sql，例如点击、激活、统计pv等
