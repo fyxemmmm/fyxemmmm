@@ -13,7 +13,7 @@
 #### Contact Me 
 
 - blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io)
-- LeetCode 主页: [https://leetcode-cn.com/u/fyxemmmm/](https://leetcode-cn.com/u/fyxemmmm/)
+- Leetcode 主页: [https://leetcode-cn.com/u/fyxemmmm/](https://leetcode-cn.com/u/fyxemmmm/)
 
 #### Project
 
@@ -26,7 +26,7 @@
 * [go-oauth](https://github.com/getbuguai/bg-jijian): 基于GO语言实现的oauth项目, 可以快速实现ouath客户端以及服务端
 * [rabbitmq (消息队列)](https://github.com/fyxemmmm/go-rabbmitmq-demo): GO语言实现的rabbitMQ的客户端以及服务端项目，内置有分布式事务的解决方案 (最终一致)
 * [golang工具库 (kit)](https://github.com/fyxemmmm/kit): 一个由GO语言编写的工具库，陆续完善中
-* [golang-project (面试习题)](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题 (包含了LeetCode) 
+* [golang-project (面试习题)](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题 (包含了Leetcode) 
 * [pv service](https://github.com/fyxemmmm/pv_service): 一个基于YII实现的项目，项目内容富含创业邦、电台等且含有大量复杂的sql，例如点击、激活、统计pv等
 * [物联网IOT项目](https://github.com/fyxemmmm/ops-pointer): 一个基于laravel实现的物联网OA系统，逻辑还是蛮复杂的，由于是php编写的，所以可供phper参考学习
 * [shell-project](https://github.com/fyxemmmm/shells): shell项目，包含centos启动脚本、短信监控脚本等
