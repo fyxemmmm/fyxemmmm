@@ -1,10 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fyxemmmm&show_icons=true&hide_border=true&theme=" alt="Feixiang's github stats" />
 
-### Hi there, I'm yuxuan
+### 👋 Hi there
 🎉 Welcome to my GitHub profile!
 - 🇨🇳 Chinese
 - 🌏 backend developer
-- ⚡ Go, Rust, Kubernetes ...
+- ⚡ Go, Rust, Kubernetes
+- 📫 How to reach me: fyxemmmm@gmail.com
 ### 
 
 [![Github](https://img.shields.io/github/followers/fyxemmmm?label=Follow&style=plastic)](https://github.com/fyxemmmm)
@@ -13,11 +14,11 @@
 #### Contact Me 
 
 - blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io), 持续更新技术文章
-- LeetCode主页:  [https://leetcode-cn.com/u/fyxemmmm](https://leetcode-cn.com/u/fyxemmmm), 一起学习算法吧
+- LeetCode 主页: [https://leetcode-cn.com/u/fyxemmmm](https://leetcode-cn.com/u/fyxemmmm), 一起学习算法
 
 #### Project
 
-* [chitanda](https://github.com/fyxemmmm/chitanda): 自己实现的基于gin的web mvc框架，名字来源于最喜欢的  <千反田>
+* [chitanda](https://github.com/fyxemmmm/chitanda): 自己实现的基于gin的web mvc框架，命名来源于最喜欢的  <千反田>
 * [blog代码](https://github.com/fyxemmmm/fyxemmmm.github.io): 博客地址源码，基于hexo实现的markdown渲染式框架
 * [accumulation (资料仓库)](https://github.com/fyxemmmm/accumulation): 云原生相关的资料仓库，例如k8s的各种基础yaml文件、dockerfile、证书的使用等，方便查阅
 * [kubernetes-etcd-operator](https://github.com/fyxemmmm/kubernetes-etcd-operator): 基于kubebuilder实现的k8s的etcd operator (还不错)
