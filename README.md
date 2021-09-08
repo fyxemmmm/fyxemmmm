@@ -28,7 +28,6 @@
 * [golang工具库 (kit)](https://github.com/fyxemmmm/kit): 一个由GO语言编写的工具库，陆续完善中
 * [golang-project (面试习题)](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题 (包含了Leetcode) 
 * [pv service](https://github.com/fyxemmmm/pv_service): 一个基于YII实现的项目，项目内容富含创业邦、电台等且含有大量复杂的sql，例如点击、激活、统计pv等
-* [物联网IOT项目](https://github.com/fyxemmmm/ops-pointer): 一个基于laravel实现的物联网OA系统，逻辑还是蛮复杂的，由于是php编写的，所以可供phper参考学习
 * [shell-project](https://github.com/fyxemmmm/shells): shell项目，包含centos启动脚本、短信监控脚本等
 * [python-project](https://github.com/fyxemmmm/py-project/tree/master): 爬虫、自动化脚本、以及selenium等项目
 * [sql-project](https://github.com/fyxemmmm/sql-project): 精选sql练习题，训练逻辑思维，含数据表下载
