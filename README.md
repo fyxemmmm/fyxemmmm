@@ -24,7 +24,7 @@
 * [kubernetes-etcd-operator](https://github.com/fyxemmmm/kubernetes-etcd-operator): 基于kubebuilder实现的k8s的etcd operator (还不错)
 * [k8s-controller-demo](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现demo
 * [go-websocket](https://github.com/fyxemmmm/go-websocket-demo)：一个 GO 语言实现的websocket项目 (用于快速上手websocket, 并且配有html前端页面)
-* [go-oauth](https://github.com/getbuguai/bg-jijian): 基于GO语言实现的oauth项目, 可以快速实现ouath客户端以及服务端
+* [go-oauth](https://github.com/fyxemmmm/go-oauth-demo): 基于GO语言实现的oauth项目, 可以快速实现ouath客户端以及服务端
 * [rabbitmq (消息队列)](https://github.com/fyxemmmm/go-rabbmitmq-demo): GO语言实现的rabbitMQ的客户端以及服务端项目，内置有分布式事务最终一致的解决方案
 * [golang工具库 (kit)](https://github.com/fyxemmmm/kit): 一个由GO语言编写的工具库，陆续完善中
 * [golang-project (面试习题)](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题 (包含了Leetcode) 
