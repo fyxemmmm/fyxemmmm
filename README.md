@@ -13,8 +13,8 @@
 
 #### Contact Me 
 
-- Blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io)
-- Leetcode 主页: [https://leetcode-cn.com/u/fyxemmmm/](https://leetcode-cn.com/u/fyxemmmm/)
+- Blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io), (分享干货内容
+- Leetcode 主页: [https://leetcode-cn.com/u/fyxemmmm/](https://leetcode-cn.com/u/fyxemmmm/), 邀你一起学习进步)
 
 #### Project
 
