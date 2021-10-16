@@ -26,7 +26,7 @@
 * [go-oauth](https://github.com/fyxemmmm/go-oauth-demo): 基于GO语言实现的oauth项目, 可以快速实现ouath客户端以及服务端
 * [rabbitmq](https://github.com/fyxemmmm/go-rabbmitmq-demo): GO语言实现的rabbitMQ的客户端以及服务端项目，内置有分布式事务最终一致的解决方案
 * [golang工具库](https://github.com/fyxemmmm/kit): 一个由GO语言编写的工具库，陆续完善中
-* [golang-project](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题
+* [golang-project](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题及常用项目demo
 * [pv service](https://github.com/fyxemmmm/pv_service): 一个基于YII实现的项目，项目内容富含创业邦、电台等且含有大量复杂的sql，例如点击、激活、统计pv等
 * [IOT project](https://github.com/fyxemmmm/ops-pointer): 一个基于Laravel的物联网项目
 * [shell-project](https://github.com/fyxemmmm/shells): shell项目，包含centos启动脚本、短信监控脚本等
