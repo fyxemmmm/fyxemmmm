@@ -5,7 +5,7 @@
 - 🇨🇳 Chinese
 - 🌏 backend developer
 - ⚡ Go, Rust, Kubernetes
-- 📫 How to reach me: fyxemmmm@gmail.com
+- 📫 Reach me: fyxemmmm@gmail.com
 ### 
 
 
