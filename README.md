@@ -17,10 +17,10 @@
 #### Project
 
 * [chitanda](https://github.com/fyxemmmm/chitanda): 基于gin的web mvc框架，named from 最最最喜欢的「千反田」
-* [blog resource code](https://github.com/fyxemmmm/fyxemmmm.github.io): blog源码，基于hexo实现的markdown渲染式博客
+* [blog resource code](https://github.com/fyxemmmm/fyxemmmm.github.io): 基于hexo实现的markdown渲染式blog
 * [accumulation](https://github.com/fyxemmmm/accumulation): 云原生资料仓库
 * [kubernetes-etcd-operator](https://github.com/fyxemmmm/kubernetes-etcd-operator): 基于kubebuilder实现的k8s的etcd operator
-* [k8s-controller-demo](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现demo
+* [k8s-controller](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现
 * [IOT project](https://github.com/fyxemmmm/ops-pointer): 一个基于Laravel的物联网项目
 * [python-project](https://github.com/fyxemmmm/py-project/tree/master): 爬虫、自动化脚本、以及selenium等项目
 * [golang-project](https://github.com/fyxemmmm/golang-project)：GO语言的各种面试习题及常用项目demo
