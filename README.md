@@ -1,3 +1,5 @@
+<img align="right" src="https://image.fyxemmmm.cn/blog/images/cat.gif" alt="Feixiang's github stats" />
+
 ### 👋 Hi there
 🎉 Welcome to my GitHub profile!
 - 🌏 backend developer
