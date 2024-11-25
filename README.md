@@ -8,15 +8,10 @@
 ### 
 
 
-#### Contact Me 
-
-- Blog 主页: [https://fyxemmmm.github.io](https://fyxemmmm.github.io)
-- Leetcode 主页: [https://leetcode-cn.com/u/fyxemmmm/](https://leetcode-cn.com/u/fyxemmmm/)
 
 #### Project
 
 * [chitanda](https://github.com/fyxemmmm/chitanda): 基于gin的web mvc框架
-* [blog resource code](https://github.com/fyxemmmm/fyxemmmm.github.io): blog
 * [accumulation](https://github.com/fyxemmmm/accumulation): 云原生资料仓库
 * [kubernetes-etcd-operator](https://github.com/fyxemmmm/kubernetes-etcd-operator): 基于kubebuilder实现的k8s的etcd operator
 * [k8s-controller](https://github.com/fyxemmmm/k8s-controller-demo): k8s的crd资源的原生控制器实现
